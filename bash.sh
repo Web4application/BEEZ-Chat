@@ -17,3 +17,6 @@ BEEZ-Chat/
 │   └── postgres, redis, nginx configs
 ├── README.md
 └── .env.template
+
+cd backend/
+uvicorn main:app --reload
