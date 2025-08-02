@@ -20,7 +20,7 @@ A fun, fast chat app from yours truly, MrBeast!
 ```
 1.    beast_mode.py: Reward algorithm
 2.    virality_detector.py: Trending topics
-3.    beast_bucks.py: Virtual currency
+3.    fadaka_bucks.py: Virtual currency
 
 ```
 *PROJECT COMPLETE!*
