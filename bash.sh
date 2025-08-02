@@ -1,1 +1,19 @@
-
+BEEZ-Chat/
+├── frontend/
+│   ├── components/
+│   ├── pages/
+│   ├── sockets/
+│   └── public/
+├── backend/
+│   ├── app/
+│   ├── routes/
+│   ├── models/
+│   ├── services/
+│   └── websocket/
+├── ai/
+│   └── summarizer.py
+├── docker/
+├── infra/
+│   └── postgres, redis, nginx configs
+├── README.md
+└── .env.template
