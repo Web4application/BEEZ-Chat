@@ -1,5 +1,5 @@
 
-#% *MrBeast-Chat*
+*beez-Chat*
 ================
 
 A fun, fast chat app from yours truly, MrBeast!
@@ -8,7 +8,7 @@ A fun, fast chat app from yours truly, MrBeast!
 
 1.  *Beast Mode*: Earn rewards for chatting!
 2.  *Virality Detector*: See what's trending in the app!
-3.  *Beast Bucks*: Virtual currency for fun rewards!
+3.  *FADAKA*: Virtual currency for fun rewards!
 
 *Tech Stack:*
 
@@ -34,5 +34,7 @@ https://github.com/Web4application/MrBeast-Chat.git
 2.  index.js - Frontend code
 3.  styles.css - Design code
 4.  database.db - Storage code
+
+```
 *LIVE DEMO:* 
 https://mrbeast-chat.web4application.repl.co/
